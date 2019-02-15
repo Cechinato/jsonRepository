@@ -1,42 +1,32 @@
 {
-id: 1,
-nmUsuario: "Idealogic Pedro",
-nmEmail: "pedro@gmail.com",
-nrClass: 1
+  "users": [
+"id": 1,
+"nmUsuario": "Idealogic Pedro",
+"nmEmail": "pedro@gmail.com",
+"nrClass": 1
 },
 {
-id: 2,
-nmUsuario: "Idealogic Mateus",
-nmEmail: "mateus@gmail.com",
-nrClass: 2
+"id": 2,
+"nmUsuario": "Idealogic Mateus",
+"nmEmail": "mateus@gmail.com",
+"nrClass": 2
 },
 {
-id: 3,
-nmUsuario: "Idealogic Jean",
-nmEmail: "jean@gmail.com",
-nrClass: 3
+"id": 3,
+"nmUsuario": "Idealogic Jean",
+"nmEmail": "jean@gmail.com",
+"nrClass": 3
 },
 {
-id: 4,
-nmUsuario: "Idealogic Endril",
-nmEmail: "endril@gmail.com",
-nrClass: 4
+"id": 4,
+"nmUsuario": "Idealogic Endril",
+"nmEmail": "endril@gmail.com",
+"nrClass": 4
 },
 {
-id: 5,
-nmUsuario: "Idealogic Anderson",
-nmEmail: "anderson@gmail.com",
-nrClass: 5
+"id": 5,
+"nmUsuario": "Idealogic Anderson",
+"nmEmail": "anderson@gmail.com",
+"nrClass": 5
 },
-{
-id: 6,
-nmUsuario: "Idealogic Ricardo",
-nmEmail: "ricardo@gmail.com",
-nrClass: 6
-},
-{
-id: 7,
-nmUsuario: "Idealogic William",
-nmEmail: "william@gmail.com",
-nrClass: 7
-}
+]
